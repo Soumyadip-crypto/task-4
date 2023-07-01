@@ -1,0 +1,13 @@
+.delete-icon, .edit-icon {
+    cursor: pointer;
+    margin-left: 5px;
+  }
+  
+  .delete-icon {
+    color: red;
+  }
+  
+  .edit-icon {
+    color: blue;
+  }
+  
